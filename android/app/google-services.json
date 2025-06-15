@@ -7,6 +7,25 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:464690889042:android:42e7dd01a3336c0c12ba8b",
+        "android_client_info": {
+          "package_name": "com.example.voice_learning_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrqxJnbWpsNEpuiN55Y51yZbwyDidys7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:464690889042:android:956a5462471c8abb12ba8b",
         "android_client_info": {
           "package_name": "com.fiza.voice_learning_app"
